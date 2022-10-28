@@ -155,13 +155,4 @@
 //  alert(Number(str[0]) + Number(str[1]) + Number(str[2]))
 //                                                         
 
-// let str = '123321';
-//  one = Number(str[0]) + Number(str[1]) + Number(str[2])
-//  two = Number(str[3]) + Number(str[4]) + Number(str[5])
-//  if (one == two){
-//      alert('да')
-//  }
-//  else{
-//      alert('нет')
-//  }
 
